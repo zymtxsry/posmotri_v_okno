@@ -1,3 +1,5 @@
+_ссылка на репотизорий_  https://github.com/zymtxsry/posmotri_v_okno.git
+
 # Практическая работа "Посмотри в окно"
 
 
